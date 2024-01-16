@@ -1,7 +1,16 @@
 #1 LEARN STRING MANIPULATION BY BUILDING A CYPHER:
+
 Python is a powerful and popular programming language widely used for data science, data visualization, web development, game development, machine learning and more.
 In this project, you'll learn fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. You'll use these to code your first programs.
+
 #2 LEARN HOW TO WORK WITH NUMBERS, AND STRINGS BY IMPLEMENTING THE LUHN ALGORITHM:
+
 The Luhn Algorithm is widely used for error-checking in various applications, such as verifying credit card numbers.
 
 By building this project, you'll gain experience working with numerical computations and string manipulation.
+
+#3Learn Lambda Functions by Building an Expense Tracker:
+
+Lambda functions give you a concise way to write small, throwaway functions in your code.
+
+In this project, you'll explore the power of Lambda Functions by creating an expense tracker. Your resulting app will demonstrate how you can use Lambda Functions for efficient, streamlined operations.
