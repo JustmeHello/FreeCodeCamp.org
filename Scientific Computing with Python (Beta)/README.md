@@ -6,7 +6,7 @@ In this project, you'll learn fundamental programming concepts in Python, such a
 The Luhn Algorithm is widely used for error-checking in various applications, such as verifying credit card numbers.
 By building this project, you'll gain experience working with numerical computations and string manipulation.
 
-#3Learn Lambda Functions by Building an Expense Tracker:
+#3 Learn Lambda Functions by Building an Expense Tracker:
 Lambda functions give you a concise way to write small, throwaway functions in your code.
 In this project, you'll explore the power of Lambda Functions by creating an expense tracker. Your resulting app will demonstrate how you can use Lambda Functions for efficient, streamlined operations.
 
@@ -14,3 +14,7 @@ In this project, you'll explore the power of Lambda Functions by creating an exp
 List Comprehension is a way to construct a new Python list from an iterable types: lists, tuples, and strings. All without using a for loop or the `.append()` list method.
 In this project, you'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
 The project has two phases: first you'll use a for loop to implement the program. Then you'll learn how to use List Comprehension instead of a loop to achieve the same results.
+
+#5 Learn Regular Expressions by Building a Password Generator
+A Python module is a file that contains a set of statements and definitions that you can use in your code.
+In this project, you'll learn how to import modules from the Python standard library. You'll also learn how to use Regular Expressions by building your own password generator program.
