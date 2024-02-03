@@ -13,6 +13,10 @@ In this project, you'll explore the power of Lambda Functions by creating an exp
 #4    Learn Python List Comprehension By Building a Case Converter Program
 List Comprehension is a way to construct a new Python list from an iterable types: lists, tuples, and strings. All without using a for loop or the `.append()` list method.
 In this project, you'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
+
+#Learn Algorithm Design by Building a Shortest Path Algorithm
+Algorithms are step-by-step procedures that developers use to perform calculations and solve computational problems.
+In this project, you'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm.
 The project has two phases: first you'll use a for loop to implement the program. Then you'll learn how to use List Comprehension instead of a loop to achieve the same results.
 
 #5 Learn Regular Expressions by Building a Password Generator
