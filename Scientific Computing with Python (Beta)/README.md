@@ -22,3 +22,7 @@ The project has two phases: first you'll use a for loop to implement the program
 #5 Learn Regular Expressions by Building a Password Generator
 A Python module is a file that contains a set of statements and definitions that you can use in your code.
 In this project, you'll learn how to import modules from the Python standard library. You'll also learn how to use Regular Expressions by building your own password generator program.
+
+#6 Learn Recursion by Solving the Tower of Hanoi Puzzle
+Recursion is a programming approach that allows you to solve complicated computational problems with just a little code.
+In this project, you'll start with a loop-based approach to solving the tower of Hanoi mathematical puzzle. Then you'll learn how to implement a recursive solution.
